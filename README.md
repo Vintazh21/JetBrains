@@ -1,5 +1,5 @@
 # JetBrains
-##Case Study Solution
+## Case Study Solution
 
 __Task1:__
 https://github.com/Vintazh21/JetBrains/blob/main/Task1/JetBrains%20-%20Task%201.ipynb
